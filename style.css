@@ -34,3 +34,14 @@ ul li a:hover {
     color: aqua;
 }
 
+h1 {
+    margin: 50px;
+    font-family: 'Times New Roman';
+    font-weight: normal;
+}
+
+iframe {
+    padding: 50px;
+    margin: 50px;
+}
+
