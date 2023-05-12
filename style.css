@@ -27,7 +27,7 @@ a.yt_link {
     margin: 150px;
     display: block;
     border: solid #1e1e1e 4px;
-    background-color: #777;
+    background-color: #fff;
 }
 
 a.yt_link:hover {
@@ -61,6 +61,7 @@ ul li a:hover {
 
 h1 {
     margin: 50px;
+    color: #1e1e1e;
     font-family: 'Times New Roman';
     font-weight: normal;
 }
@@ -68,5 +69,13 @@ h1 {
 iframe {
     padding: 50px;
     margin: 50px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
 }
 
