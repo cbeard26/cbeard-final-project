@@ -19,6 +19,10 @@ body p {
 }
 
 a.yt_link {
+    text-decoration: none;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman';
     padding: 50px;
     margin: 150px;
     display: block;
