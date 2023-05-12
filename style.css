@@ -27,10 +27,6 @@ body p {
     margin: 150 px
 }
 
-body a:hover {
-    background-color: aqua;
-}
-
 ul li {
     list-style: none;
     display: inline-block;
