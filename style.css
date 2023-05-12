@@ -18,6 +18,23 @@ body p {
     margin: 150 px
 }
 
+a.yt_link {
+    padding: 50px;
+    margin: 150px;
+    display: block;
+    border: solid #1e1e1e 4px;
+    background-color: #777;
+}
+
+a.yt_link:hover {
+    background-color: aqua;
+}
+
+p.bt {
+    padding: 50px;
+    margin: 125px;
+}
+
 ul li {
     list-style: none;
     display: inline-block;
